@@ -12,6 +12,8 @@ website:
         href: project.qmd
       - text: Blog
         href: blog-listing.qmd
+      - text: R Basics
+        href: danl-200-quarto.qmd
             
   page-footer: 
     center: "Powered with GitHub and Quarto<br>© Eric Smith, 2024"
